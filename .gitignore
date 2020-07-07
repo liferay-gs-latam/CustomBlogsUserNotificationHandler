@@ -128,3 +128,6 @@ gradle-app.setting
 **/build/
 
 # End of https://www.toptal.com/developers/gitignore/api/gradle,java,eclipse,java-web,maven
+
+.classpath
+.project
